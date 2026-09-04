@@ -25,3 +25,4 @@ if __name__ == "__main__":
     print(f"5 + 3 = {add(5, 3)}")
     print(f"10 - 4 = {subtract(10, 4)}")
     print(f"2 ^ 3 = {power(2, 3)}")
+    
